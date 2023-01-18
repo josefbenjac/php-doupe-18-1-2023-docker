@@ -1,0 +1,9 @@
+version: "3.8"
+services:
+
+  moje-php:
+    build: .
+    volumes:
+      - ./:/var/www/html/:delegated
+    ports:
+      - "80:80"
