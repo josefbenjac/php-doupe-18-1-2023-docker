@@ -1,4 +1,4 @@
-# Ovládací comamndy
+# Ovládací commandy
 
 ## Start
 
